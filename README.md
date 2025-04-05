@@ -1,2 +1,2 @@
 # Insights-to-Management-in-Consumer-Goods-Domain
-Domain:  Consumer Goods | Function: Executive Management  Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too. However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions.
+Domain:  Consumer Goods | Function: Executive Management  Atliq Hardwares is one of India's leading computer hardware producers and has expanded well in other countries. However, the management noticed they do not get enough insights to make quick, smart, data-informed decisions.
